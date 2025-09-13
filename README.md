@@ -1,4 +1,4 @@
-# ChatGPT_Clone
+# ChatGPT_clone to exolore
 <div align="center">
 <img src="public/chatGPT.png" width="100" height="auto">
 </div>
